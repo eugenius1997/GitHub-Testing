@@ -1,3 +1,3 @@
 # GitHub-Testing
 It's just for to understand how it works.
-Making some changes in this file.
+New changes, that showes me is GitHub Desktop works correct.
